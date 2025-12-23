@@ -1,7 +1,7 @@
 # finalproject
 FINAL PROJECT KELOMPOK 39
 # Deskripsi Project WEB
-Proyek Web Sistem Manajemen Event Mahasiswa (LiveFest) adalah sebuah platform berbasis web yang dirancang untuk mengelola (admin) dan memesan tiket berbagai event (user), khususnya konser musik dan webinar, dalam satu sistem terpusat. Sistem ini dibangun sebagai proyek akhir mahasiswa dengan tujuan mengintegrasikan proses pemesanan tiket secara digital untuk meningkatkan efisiensi, keamanan, dan kenyamanan pengguna.
+Proyek Web Sistem Manajemen Event Mahasiswa (LiveFest) adalah sebuah platform berbasis web yang dirancang untuk mengelola (admin) dan memesan tiket berbagai event (user), seperti konser musik/webinar/fun run/tournament dan event lainnya. Web pemesanan tiket ini dapat memudahkan mahasiswa membeli tiket event/acara yang diadakan kampus dan organisasi kampus beserta dapat memudahkan pihak kampus atau organisasi kampus yang ingin mengadakan event.
 # Cara Run Lokal
 # Prasyarat
 - vscode = Text Editor / IDE
