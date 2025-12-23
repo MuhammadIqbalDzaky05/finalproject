@@ -81,4 +81,6 @@ code.jquery.com/jquery-3.6.0.min.js = javascript library
 - CSV: vendor/google/apiclient-services/src/AlertCenter/csv.php
 
 # Keterangan
-ERD, Mock Up Sistem, diagram arsitektur, ADBO (Diagram UML) ada pada laporan
+- ERD, Mock Up Sistem, diagram arsitektur, ADBO (Diagram UML) ada pada laporan
+- database.sql ada di drive pengumpulan
+- uji coba web ada di drive pengumpulan
