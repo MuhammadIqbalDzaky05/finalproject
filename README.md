@@ -5,7 +5,7 @@ Proyek Web Sistem Manajemen Event Mahasiswa (LiveFest) adalah sebuah platform be
 # Cara Run Lokal
 # Prasyarat
 - vscode = Text Editor / IDE
-Untuk menulis, mengedit, dan mengelola kode program Anda.
+Untuk menulis, mengedit, dan mengelola kode program.
 - xampp = Paket Server Lokal
 Berisi Apache (web server), MySQL (database), dan PHP (bahasa pemrograman).
 - PHP 8.x
